@@ -8,3 +8,5 @@
    
 All installation and injection happens automatically. 
 An active defender can affect the work of the cheat!
+
+Archive password: 1122
